@@ -8,6 +8,4 @@ app = Flask(__name__)
 def index():
     return "ALSKLAKSALSKAKSLASKLAKSKLAS"
 
-if __name__ == '__main__':
-    app.run()
-    
+
